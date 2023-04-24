@@ -12,7 +12,7 @@ import { TaskProvider } from './context/taskContext';
 import ItemList from './components/ItemList';
 import ItemAdd from './components/ItemAdd';
 import TaskReset from "./components/TaskReset";
-// iniciando
+
 function App() {
   return (
     <Router>
